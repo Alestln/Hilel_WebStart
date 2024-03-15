@@ -1,0 +1,6 @@
+@Hilel_WebStart_HostAddress = http://localhost:5174
+
+GET {{Hilel_WebStart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
